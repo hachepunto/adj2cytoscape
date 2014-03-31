@@ -1,7 +1,7 @@
 adj2cytoscape
 =============
 
-Convert the ootput.adj from aracne to columm space delimited format ready to cytoscape.
+Convert the output.adj from aracne to columm space delimited format ready to cytoscape.
 
 How to run:
 
