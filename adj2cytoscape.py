@@ -15,7 +15,7 @@ for line in f:
 f.close()
 
 f = open(sys.argv[1])
-#convert *.adj to input cytoscape
+#convert *.adj to input ready for cytoscape
 l = f.readlines()
 for i in range(19,n):
     columnas = l[i].split('\t')
