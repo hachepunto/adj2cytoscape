@@ -1,5 +1,5 @@
 # How to run:
-# python adj2cytoscape.py file_input > output_file
+# python adj2cytoscape.py file_input.adj > output_file.txt
 # 
 
 #import sys library to get Command-Line Arguments
