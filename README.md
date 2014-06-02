@@ -1,9 +1,14 @@
 adj2cytoscape
 =============
+<pre><code>
+usage: adj2cytoscape.py [-h] adj [adj ...]
 
-Convert the output.adj from aracne to columm space delimited format ready to cytoscape.
+Convert aracne2 adjacency files to tab separated values suitable for
+cytoscape.
 
-How to run:
+positional arguments:
+  adj         One or more ADJ files.
 
-$ python adj2cytoscape.py file_input.adj > output_file.txt
-
+optional arguments:
+  -h, --help  show this help message and exit
+</code></pre>
