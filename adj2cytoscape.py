@@ -1,3 +1,6 @@
+# Convert aracne2 .adj files to tab separated values suitable .sif files for cytoscape
+# Usage: $ python adj2cytoscape.py file.adj > file.sif
+
 import argparse
 
 parser = argparse.ArgumentParser(description='Convert aracne2 adjacency files to tab separated values suitable for cytoscape.')
